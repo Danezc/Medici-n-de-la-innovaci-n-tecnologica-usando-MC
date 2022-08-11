@@ -1,0 +1,12 @@
+To validate the variables that have historically most influenced innovation
+technology of Colombia, first, descriptive statistics and diagrams of
+Pearson correlation, using the Python programming language.
+Pseudorandom numbers are generated through the “Random” object and the
+seed (171239) of the “Numpy” library, the same library that is used as support for
+conducting descriptive statistics. Likewise, the “Scipy” library is used as
+basis for some descriptive and inferential analyses.
+The graphs and drawings will be made through the "MatPlotLib" and "Seaborn" libraries in
+Python. Databases are created in the Excel program and imported into Python
+through the "Pandas" library, It is also used to apply all data analysis.
+The Sklearn library is used as support for the validation of the variables and obtaining the
+model by Principal Component Analysis.
